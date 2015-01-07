@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -fpack-struct -I.
 OBJ = main.o user.o status.o
-TARGET = AdhocSever
+TARGET = AdhocServer
 
 LIBS = -lsqlite3
 
